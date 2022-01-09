@@ -25,8 +25,6 @@
 
 
 
-<div class="tenor-gif-embed" data-postid="24430189" data-share-method="host" data-width="100%" data-aspect-ratio="1.8863636363636367"><a href="https://tenor.com/view/gif-24430189">GIF</a> </div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
 
 </p>
 
