@@ -24,7 +24,7 @@
 [How to get it? Visit our Shop ](#) ==> https://200iq.shop/
 
 
- <a href=""><img src="https://i.imgur.com/UjDuIYd.gif" alt="GitHub Badge">
+ <a href=""><img src="https://tenor.com/bOFzt.gif" alt="GitHub Badge">
 
 
 
