@@ -4,14 +4,14 @@
 
 
 
->
+
 > # D - Creator 2.0
 > ## [A Discord Token Generator](#)
 >  [Demonstration ](#) ==> https://www.youtube.com/watch?v=CDc3hI0dVCU
 > -  I made this ``script`` under 4 days, the idea is to get create Unlimited Discord Accounts ->  Fully Verified
 >  -  Purchase Source Code,run the Executeable or JS File & Stack up Tokens overnight.
 
-> **What are the current features?**
+``What are the current features?``
 - **• hCaptcha Bypasser 2 Second/s**
 - **• Email Verification 10 Seconds/s**
 - **• Proxyless No Residential Proxy Required**
