@@ -25,7 +25,7 @@
 
 
 ![Test Image 4](https://github.com/24hoster/DiscordTokenGenerator/blob/main/creator.gif)
-https://github.com/24hoster/DiscordTokenGenerator/blob/main/creator.gif
+
 </p>
 
 ##  **Profile**
