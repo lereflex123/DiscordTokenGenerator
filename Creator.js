@@ -1,3 +1,6 @@
+//code snippet
+
+
 const colours = {
     reset: "\x1b[0m",
     bright: "\x1b[1m",
