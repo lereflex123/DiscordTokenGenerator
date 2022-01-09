@@ -20,9 +20,10 @@
 - **• Upload Random Avatar**
 - **• Customize Bio**
 - **• Ratelimitation Bypass**
- - **How to get it? Visit our Shop @[200iq.shop]([https://](https://200iq.shop/))** 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CDc3hI0dVCU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**How to get it? Visit our Shop @[200iq.shop]([https://](https://200iq.shop/))** 
+
+ <a href=""><img src="https://i.imgur.com/UjDuIYd.gif" alt="GitHub Badge">
 
 
 
