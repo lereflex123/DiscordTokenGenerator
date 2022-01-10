@@ -40,7 +40,7 @@
 [Destruction/24host](LICENSE)
 
 LEGAL Please READ.
-- This is illegal if you use this without the consent of the - owners (in this case, the Instagram Victim & Instagram `Team Representative').
+- This is illegal if you use this without the consent of the - owners (in this case, the Discord Victim & Discord `Team Representative').
 - The software designed to perform website security testing.
 - The author is not responsible for any illegal use of these programs.
 - I am not accountable for anything you get into.
