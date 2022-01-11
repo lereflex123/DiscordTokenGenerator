@@ -22,7 +22,7 @@
 - **• Customize Bio**
 - **• Ratelimitation Bypass**
 
-[How to get it? Visit our Shop ](#) ==> https://200iq.shop/
+[How to get it? Visit our Shop ](#) ==> https://200iq.shop/ <==
 
 
 
